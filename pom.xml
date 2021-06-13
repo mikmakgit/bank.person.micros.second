@@ -83,6 +83,7 @@
 			</plugin>
 
 		</plugins>
+		<finalName>docker-bank-person-boot2</finalName>
 	</build>
 
 </project>
